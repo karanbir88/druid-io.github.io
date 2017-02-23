@@ -178,6 +178,10 @@ You can learn more about the AOC at http://netsil.com/download/
 
 * [A Comparison of Time Series Databases and Netsil’s Use of Druid](https://blog.netsil.com/a-comparison-of-time-series-databases-and-netsils-use-of-druid-db805d471206)
 
+## Nielsen
+
+Nielsen is a global performance management company that provides a comprehensive understanding of what consumers Watch and Buy, and the Nielsen Marketing Cloud (NMC) is the underlyding platform that brings this data together. The NMC utilizes Druid for the purposes of near-realtime measurement of segment & audience volumes, consumer profile analyses and index reporting, for petabyte-scale datasets.
+
 ## OneAPM
 
 OneAPM <http://oneapm.com> is an IT service compmay focusing on Application Performance Management (APM). In OneAPM, Druid is used to power clients' interactive queries on performance data collected from their applications in realtime.
